@@ -37,13 +37,15 @@
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/brutalismweb/NocoDB_web-clipper.git
+   git clone https://github.com/brutalismweb/NocoDB-Web-Clipper.git
    ```
 2. Open Google Chrome and go to: chrome://extensions/
 3. Turn on Developer mode (toggle in the top-right corner).
 4. Click Load unpacked.
 5. Select the folder where the extension files are located (the one with manifest.json).
 6. The extension will appear in your toolbar and is ready to use 🎉
+   
+---
 
 # 🧩 NocoDB Web Clipper
 
@@ -84,7 +86,7 @@
 
 1. Скачайте или клонируйте репозиторий:
    ```bash
-   git clone https://github.com/brutalismweb/NocoDB_web-clipper.git 
+   git clone https://github.com/brutalismweb/NocoDB-Web-Clipper.git 
    ```
 2. Откройте Google Chrome и перейдите по адресу: chrome://extensions/
 3. Включите Режим разработчика (переключатель в правом верхнем углу).

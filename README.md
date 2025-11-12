@@ -1,14 +1,14 @@
 # 🧩 NocoDB Web Clipper
 
 **NocoDB Web Clipper** is a simple Chrome extension that lets you save web pages directly into your NocoDB database — including the page title, link, tags, and your personal comment.
-The extension automatically supports English, German, Spanish, French, and Russian languages.
 ---
 
 ## ✨ Features
 - Save **Title**, **Link**, **Tags**, and **Comment** directly into your NocoDB table  
 - Works with self-hosted and cloud NocoDB instances  
 - Simple setup: specify your server URL, API key, and table endpoint  
-- Easy installation via Developer Mode for testing and development  
+- Easy installation via Developer Mode for testing and development
+- The extension automatically supports English, German, Spanish, French, and Russian languages.
 
 ---
 
@@ -48,7 +48,6 @@ The extension automatically supports English, German, Spanish, French, and Russi
 # 🧩 NocoDB Web Clipper
 
 **NocoDB Web Clipper** - это простое расширение для Chrome, которое позволяет сохранять веб-страницы напрямую в вашу базу данных NocoDB — включая заголовок страницы, ссылку, теги и ваш комментарий.
-Расширение поддерживает в автоматическом режиме Английский, Немецкий, Испанский, Французский и Русский языки.
 ---
 
 ## ✨ Возможности
@@ -56,6 +55,7 @@ The extension automatically supports English, German, Spanish, French, and Russi
 - Работает с как с self-hosted, так и с облачными версиями NocoDB
 - Простая настройка: укажите URL вашего сервера, API-ключ и идентификатор таблицы  
 - Легкая установка через режим разработчика (Developer Mode) для тестирования и разработки
+- Расширение поддерживает в автоматическом режиме Английский, Немецкий, Испанский, Французский и Русский языки.
 
 ---
 
